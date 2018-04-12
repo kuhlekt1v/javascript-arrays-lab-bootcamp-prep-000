@@ -1,6 +1,6 @@
-var kittens = ["Milo", "Otis", "Garfield"];
+
+var window.kittens = ["Milo", "Otis", "Garfield"];
 
 function destructivelyAppendKitten(name) {
-  kittens.append("bentley");
-  return kittens;
+  window.kittens("bentley");
 }
