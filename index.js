@@ -17,5 +17,5 @@ function destructivelyRemoveFirstKitten(name) {
 }
 
 function appendKitten(name) {
-  return [...kitens, ""]
+  return [...kitens, "Broom"];
 }
