@@ -1,2 +1,2 @@
-var window.kittens = ["Milo", "Otis", "Garfield"];
+var kittens = ["Milo", "Otis", "Garfield"]; 
 
